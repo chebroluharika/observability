@@ -1,0 +1,7 @@
+streamlit
+langchain-community
+ollama
+paramiko
+agno
+psycopg2-binary
+ibm-watson-machine-learning

@@ -1,0 +1,13 @@
+requests
+psycopg2-binary
+pymongo
+bcrypt
+python-dotenv
+argparse
+langchain
+langchain_huggingface
+huggingface_hub
+agno
+langchain-community
+ollama
+ibm-watson-machine-learning
